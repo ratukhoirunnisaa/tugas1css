@@ -1,0 +1,27 @@
+#header h1{
+    color: red;
+}
+.konten h2 {
+    color: red;
+    background-color: pink;
+}
+
+.konten p{
+    color: green;
+    background-color: yellow;
+}
+
+.sidebar h1{
+    color: red;
+    background-color: pink;
+}
+
+.sidebar h2{
+    color: red;
+    background-color: pink;
+}
+
+.sidebar p{
+    color: green;
+    background-color: yellow;
+}
